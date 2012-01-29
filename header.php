@@ -44,7 +44,7 @@
 
 		<?php do_atomic( 'before_header' ); // dschool_before_header ?>
 
-		<div id="header">
+		<a href='http://www.stanford.edu/~jchen4'><div id="header">Hi</a>
 
 			<?php do_atomic( 'open_header' ); // dschool_open_header ?>
 
